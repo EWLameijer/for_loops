@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b092af6f-9086-4426-9df5-6a4c98176746" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="b092af6f-9086-4426-9df5-6a4c98176746" name="Changes" comment="for loop worked examples. A bit unpolished, but finished and hopefully sufficient">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -40,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678295289340</updated>
     </task>
+    <task id="LOCAL-00001" summary="for loop worked examples. A bit unpolished, but finished and hopefully sufficient">
+      <created>1678347975245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678347975245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,5 +59,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="for loop worked examples. A bit unpolished, but finished and hopefully sufficient" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loop worked examples. A bit unpolished, but finished and hopefully sufficient" />
   </component>
 </project>

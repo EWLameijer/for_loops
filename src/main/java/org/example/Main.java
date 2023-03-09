@@ -4,6 +4,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Hello for-loops!");
+        Thread.sleep(1); // to avoid the warning about throwing an InterruptedException :/
         // instructions: please uncomment each piece of code when you start doing the exercise
         // CTRL + / helps uncomment code!
 
